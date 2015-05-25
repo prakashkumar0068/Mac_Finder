@@ -1,0 +1,9 @@
+D:\C# Projects\MAC\MAC\bin\Debug\MAC.exe.config
+D:\C# Projects\MAC\MAC\obj\Debug\MAC.csprojResolveAssemblyReference.cache
+D:\C# Projects\MAC\MAC\obj\Debug\MAC.MAC.resources
+D:\C# Projects\MAC\MAC\obj\Debug\MAC.Properties.Resources.resources
+D:\C# Projects\MAC\MAC\obj\Debug\MAC.csproj.GenerateResource.Cache
+D:\C# Projects\MAC\MAC\bin\Debug\MAC.exe
+D:\C# Projects\MAC\MAC\bin\Debug\MAC.pdb
+D:\C# Projects\MAC\MAC\obj\Debug\MAC.exe
+D:\C# Projects\MAC\MAC\obj\Debug\MAC.pdb
